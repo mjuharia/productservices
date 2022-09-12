@@ -26,13 +26,13 @@ public class ProductDAOImpl implements ProductDAO {
 	@Override
 	public void update(Product product) {
 		// TODO Auto-generated method stub
-
+		return;
 	}
 
 	@Override
 	public void delete(int id) {
 		// TODO Auto-generated method stub
-
+		return;
 	}
 
 }
